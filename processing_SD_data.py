@@ -1,6 +1,6 @@
 ############################ READ ME ######################
 #This code was written by Hanna Rosenthal to process Saildrone data from Sd1020, Sd1022, Sd1023 during the Circumnavigation of Antarctica in 2019
-# 
+# TEST 
 # five main steps are done in this script: 
 #  1. data is projected on continous time vector (in the "raw" dataset provided by Sd Inc. the time vektor was not continous)
 #  2. mask with nan all rows( times) where there is missing measurments of variables that are reqired for heat flux calculation
